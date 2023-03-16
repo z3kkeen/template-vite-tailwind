@@ -1,3 +1,3 @@
 export default {
-    base: '/prog22/', // <repo>
+    base: '/template-vite-tailwind/', // <repo>
 }
